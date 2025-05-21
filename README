@@ -1,0 +1,54 @@
+# 📝 To-Do Planner: Flutter App
+
+A beautifully designed **To-Do List & Daily Planner** built using Flutter. This app helps users manage and organize daily tasks efficiently with a clean, professional UI inspired by the **Doist Planner App**.
+
+## 📱 Features
+
+- ✨ Splash screen with animation
+- ✅ Add, check, and delete tasks
+- 🔔 Reminder if tasks are incomplete
+- 🎉 "All tasks completed" success screen
+- 🌙 Light & Dark mode support
+- 📅 Clean, classic UI with Times New Roman typography
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/todo_planner_flutter.git
+   cd todo_planner_flutter
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app:**
+   ```bash
+   flutter run
+   ```
+
+> **Note:** Ensure Flutter SDK is installed and properly configured.
+
+## 🗂️ Project Structure
+
+```
+lib/
+├── main.dart             # Entry point
+├── splash_screen.dart    # Splash screen with animation
+├── home_screen.dart      # Main task list UI
+├── done_screen.dart      # All tasks completed screen
+```
+
+## 🎨 UI Design
+
+- Font: **Times New Roman** (classic and readable)
+- Icons: Material icons
+- Theme: Light theme with soft purple tones and dark mode compatibility
+
+## 📌 Future Enhancements
+
+- Task sync with cloud (Firebase)
+- Task time notifications
+- Calendar view with schedule planner
