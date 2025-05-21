@@ -1,37 +1,16 @@
-# TODO_APP
-This Flutter project is a beautifully designed To-Do List: Planner &amp; Calendar App that helps users manage daily tasks efficiently. It features task addition, reminders, deletion, and a celebratory screen when all tasks are done. With a classic UI using Times New Roman font and dark mode support, it offers a clean and professional experience.
-# 📝 To-Do List: Planner & Calendar App
+# todo_app
 
-A beautiful and simple productivity planner app built with **Flutter**. This app helps users organize their daily tasks, track progress, receive reminders, and celebrate completed goals — all within an elegant and classic interface.
+A new Flutter project.
 
----
+## Getting Started
 
-## 📱 Features
+This project is a starting point for a Flutter application.
 
-- ✅ **Task Management**  
-  Add, check off, or delete tasks as you go through your day.
+A few resources to get you started if this is your first Flutter project:
 
-- 🎉 **Completion Message**  
-  When all tasks are completed, a celebratory screen appears.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-- 🔔 **Reminders**  
-  Automatic reminder notifications if tasks are incomplete after some time.
-
-- 🌙 **Dark Mode Support**  
-  Automatically adapts to the system’s dark/light theme.
-
-- ✨ **Splash Screen**  
-  Stylish animated splash screen with app title and sparkle.
-
-- 🖋️ **Classic Font Theme**  
-  The app uses professional fonts like *Times New Roman* for a clean and classy look.
-
----
-
-## 🛠️ Tech Stack
-
-- **Flutter** – UI toolkit by Google
-- **Dart** – Programming language used with Flutter
-- **Material 3** – Latest Material Design components
-
----
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
