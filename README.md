@@ -35,16 +35,3 @@ A beautiful and simple productivity planner app built with **Flutter**. This app
 - **Material 3** – Latest Material Design components
 
 ---
-
-## 📂 Project Structure
-
-lib/
-│
-├── main.dart # App entry point
-├── splash_screen.dart # Animated welcome screen
-├── home_screen.dart # Main task planner interface
-├── done_screen.dart # Displayed after all tasks are completed
-
-yaml
-Copy
-Edit
